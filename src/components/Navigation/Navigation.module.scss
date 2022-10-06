@@ -1,0 +1,18 @@
+.links {
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.link {
+  font-weight: 700;
+  font-size: 17px;
+
+  text-decoration: none;
+  margin-right: 10px;
+  color: black;
+
+  &_active {
+    font-weight: 700;
+    color: #99c2f8;
+  }
+}
